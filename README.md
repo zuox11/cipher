@@ -34,6 +34,7 @@ E. Main:
 Membuat dan menjalankan aplikasi Tkinter.
 
 F. Contoh Penggunaan
+
 Vigenère Cipher:
 1. Pilih Cipher: Pilih "Vigenere" dari dropdown menu.
 2. Masukkan Pesan: Ketikkan "HELLO WORLD" di area pesan.
